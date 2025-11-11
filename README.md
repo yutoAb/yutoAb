@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm yutoAb 👋
+
+- 🔭 I’m currently working on Waseda University.
+- 🌱 I’m currently learning AI + Web application.
+- 📫 How to reach me: https://x.com/ReactYuto
+
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,nodejs,next,c,cpp,php,java,scala,python,pytorch,anaconda,flask,fastapi,sqlite,docker,elasticsearch,git,github,figma" />
+<br>
 
 <!--
 **yutoAb/yutoAb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
